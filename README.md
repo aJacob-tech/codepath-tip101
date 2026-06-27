@@ -1,1 +1,1 @@
-# codepath-tip101
+CodePath TIP 101 Solutions
